@@ -42,7 +42,7 @@ function Contact() {
             <i class="fa fa-phone"></i>
           </div>
           <h4>Call Me on</h4>
-          <p>+91 9764804327</p>
+          <p>+91 7038895312</p>
         </div>
         <div className="contact-info">
           <div class="icon">

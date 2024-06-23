@@ -24,12 +24,12 @@ function Gallery() {
 
     nextButton.addEventListener("click", () => {
       console.log("nextClicked");
-      scrollContainer.scrollLeft += 370;
+      scrollContainer.scrollLeft += 300;
     });
 
     backButton.addEventListener("click", () => {
       console.log("backClicked");
-      scrollContainer.scrollLeft -= 370;
+      scrollContainer.scrollLeft -= 300;
     });
   }, []);
 
